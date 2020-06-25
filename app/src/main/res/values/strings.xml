@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MascotasS3</string>
+
+    <string name="description_img_star_icon">favoritoImg</string>
+    <string name="description_img_avatar_pet">MascotaImg</string>
+    <string name="description_img_footprint">footPrint</string>
+    <string name="description_img_bone">huesoImg</string>
+    <string name="description_img_bone_gold">huesoOroImg</string>
+    <string name="nickname_pet">MiMascota</string>
+    <string name="nickname_pet1">Luna</string>
+    <string name="nickname_pet2">Manchas</string>
+    <string name="nickname_pet3">Teo</string>
+    <string name="nickname_pet4">Firulay</string>
+    <string name="nickname_pet5">Bambie</string>
+    <string name="nickname_pet6">Eva</string>
+    <string name="raiting_num_pet">0</string>
+    <string name="favorite_pets">Favorito Mascotas</string>
+</resources>

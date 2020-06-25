@@ -1,0 +1,2 @@
+rootProject.name='MascotasS3'
+include ':app'
